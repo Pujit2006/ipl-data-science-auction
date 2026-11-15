@@ -14,7 +14,7 @@ An educational browser game where you own an IPL-style franchise, scout players 
 
 ## 🔗 Play the game
 
-**Live link:** `PASTE-YOUR-GITHUB-PAGES-LINK-HERE`
+**Live link:** [``](https://pujit2006.github.io/ipl-data-science-auction/)
 
 Or download this repository and open `index.html` in any modern browser (Chrome, Edge, Firefox, Safari). No installation, backend, API key or internet connection is needed.
 
